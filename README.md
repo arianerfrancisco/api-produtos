@@ -1,9 +1,7 @@
-Tecnologia utilizadas:
-
-    JAVA
-    SPRING BOOT
-    OPEN API
-    JPA
-    MYSQL
-    H2
-
+### Tecnologia utilizadas:
+- JAVA
+- SPRING BOOT
+- OPEN API
+- JPA
+- MYSQL
+- H2
