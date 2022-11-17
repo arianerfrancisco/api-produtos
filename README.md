@@ -5,3 +5,4 @@
 - JPA
 - MYSQL
 - H2
+- SWAGGER
